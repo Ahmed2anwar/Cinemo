@@ -2,10 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Project title :
+## Project Title:
 Cinemo 
 
-About the Project: 📚
+## About Project
 Movies appliction is a one-stop destination for movie enthusiasts providing a comprehensive source of information, ratings, and reviews on the latest movies and classic favorites from around the world.
 Show new releases, trending , now palying . popular movie and tv series , and top-rated recommendations tailored to the user's preferences, Allows users to search for movies using keywords name of movie and tv series and display movie details trailers, cast and crew information, user ratings, critic reviews
 
